@@ -1,0 +1,27 @@
+#navbarNav {
+    justify-content: end;
+    text-align: end;
+}
+
+main {
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #000;
+}
+
+.somos {
+    text-align: center;
+    font-weight: 700;
+    color: #fff;
+}
+
+hr {
+    color: #fff;
+}
