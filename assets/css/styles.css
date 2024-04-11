@@ -25,3 +25,12 @@ body {
 hr {
     color: #fff;
 }
+
+.card {
+    border: none;
+    color: #fff;
+}
+
+.card-header {
+    text-align: center;
+}
