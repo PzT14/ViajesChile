@@ -37,4 +37,10 @@ hr {
 
 form {
     color: #fff;
+    margin-bottom: 3%;
+}
+
+footer {
+    background-color: #008b8b;
+    color: #fff;
 }
